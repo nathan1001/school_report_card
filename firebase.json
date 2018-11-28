@@ -9,12 +9,10 @@
       "**/.*",
       "**/node_modules/**"
     ],
-    "rewrites": [
-      {
-        "source": "**",
-        "destination": "/index.html"
-      }
-    ]
+    "rewrites": [{
+      "source": "**",
+      "function": "app"
+    }]
   },
   "storage": {
     "rules": "storage.rules"
