@@ -1,0 +1,24 @@
+functions@ /Users/nathandonkor/school_report_card/functions
+└─┬ firebase@5.7.0 
+  ├─┬ @firebase/auth@0.9.0 
+  │ └── @firebase/auth-types@0.5.0 
+  ├─┬ @firebase/firestore@0.9.0 
+  │ ├── @firebase/firestore-types@0.8.0 
+  │ └── @firebase/webchannel-wrapper@0.2.11 
+  ├─┬ @firebase/functions@0.3.3 
+  │ ├── @firebase/functions-types@0.2.1 
+  │ ├── @firebase/messaging-types@0.2.3 
+  │ └─┬ isomorphic-fetch@2.2.1 
+  │   ├─┬ node-fetch@1.7.3 
+  │   │ ├── encoding@0.1.12 
+  │   │ └── is-stream@1.1.0 
+  │   └── whatwg-fetch@3.0.0 
+  ├─┬ @firebase/messaging@0.3.7 
+  │ └── @firebase/messaging-types@0.2.3  deduped
+  ├─┬ @firebase/polyfill@0.3.3 
+  │ ├── core-js@2.5.5 
+  │ ├── promise-polyfill@7.1.2 
+  │ └── whatwg-fetch@2.0.4 
+  └─┬ @firebase/storage@0.2.4 
+    └── @firebase/storage-types@0.2.3 
+
